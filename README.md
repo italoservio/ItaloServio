@@ -24,6 +24,3 @@
 <br>☁️ AWS • Terraform • NGINX • Docker • Kubernetes
 <br>🔎 OpenTelemetry • New Relic • DataDog • Jaeger • ELK Stack
 </pre>
-
-![](https://nirzak-streak-stats.vercel.app/?user=italoservio&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=italoservio&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
