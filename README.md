@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/company/paramountco">
   <img
-    src="[https://media.licdn.com/dms/image/v2/D4E0BAQFBUuEd8VGK4w/company-logo_200_200/B4EZs3tEB3IQAI-/0/1766166118811/coinbase_logo?e=1771459200&v=beta&t=MRB-ejjAS1_ulcnBkuOU2MUkruVeiberDuAnmT_EYFM](https://media.licdn.com/dms/image/v2/D4E0BAQFBUuEd8VGK4w/company-logo_200_200/B4EZs3tEB3IQAI-/0/1766166118811/coinbase_logo?e=1779321600&v=beta&t=RJ6dJqCvmGjXhaRvxGVdy9xAxoX36W0Hxrn0s3b6TTk)" align="left"
+    src="https://media.licdn.com/dms/image/v2/D4E0BAQFBUuEd8VGK4w/company-logo_200_200/B4EZs3tEB3IQAI-/0/1766166118811/coinbase_logo?e=1779321600&v=beta&t=RJ6dJqCvmGjXhaRvxGVdy9xAxoX36W0Hxrn0s3b6TTk" align="left"
     style="margin-right:20px"
     height="70px"
   />
