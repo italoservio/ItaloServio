@@ -17,7 +17,7 @@
 
 
 <pre>
-👨‍💻 Node.js • Golang • Typescript • Java • PHP
+👨‍💻 Node.js • Golang • Typescript
 <br>🦩 React.js • Vue.js • Typescript
 <br>📡 Kafka • RabbitMQ • Elasticsearch • Redis • Keycloak • SQL
 <br>🚢 Github Actions • Gitlab CI • Jenkins • Circle CI
