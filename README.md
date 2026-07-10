@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/company/rainxyz">
   <img
-    src="https://media.licdn.com/dms/image/v2/D4E0BAQHvz_UqyXvPUg/company-logo_200_200/B4EZnfXchbHEAI-/0/1760389089691/rainxyz_logo?e=1783555200&v=beta&t=Y-LXp5fK1NIH7EXyF5ZYNKt91PK84NKXx4KtB60vjp8" align="left"
+    src="https://pbs.twimg.com/profile_images/1977841389653086208/5JABD8CK.jpg" align="left"
     style="margin-right:20px"
     height="70px"
   />
